@@ -7,7 +7,7 @@ This repository showcases my achievement of the **DataCamp Professional Data Sci
 - **Issued By:** DataCamp  
 - **Completion Date:** January 2025  
 
-[View My DataCamp Certificate](https://https://github.com/Radib-BK/Datacamp-Data-Scientist-Certification-Project/Datacamp_certificate_DS0027479691932.pdf)
+[View My DataCamp Certificate](https://github.com/Radib-BK/Datacamp-Data-Scientist-Certification-Project/Datacamp_certificate_DS0027479691932.pdf)
   
 
 ## 📂 Repository Contents  
