@@ -1,13 +1,14 @@
 # Datacamp-Data-Scientist-Certification
 
+![DataCamp Certificate](Datacamp_Certification.png)
+
+
 This repository showcases my achievement of the **DataCamp Professional Data Scientist Certificate**, along with relevant coursework and a sample project demonstrating my skills in **data analysis, visualization, and machine learning**.  
 
 ## 🏆 Certification Details  
 - **Certificate ID:** DS0027479691932  
 - **Issued By:** DataCamp  
 - **Completion Date:** January 2025  
-
-[View My DataCamp Certificate]([https://github.com/Radib-BK/Datacamp-Data-Scientist-Certification-Project/Datacamp_certificate_DS0027479691932.pdf](https://github.com/Radib-BK/Datacamp-Data-Scientist-Certification-Project/blob/main/Datacamp_certificate_DS0027479691932.pdf))
   
 ## 📂 Repository Contents  
 
