@@ -3,7 +3,7 @@
 ![DataCamp Certificate](Datacamp_Certification.png)
 
 
-This repository showcases my achievement of the **DataCamp Professional Data Scientist Certificate**, along with relevant coursework and a sample project demonstrating my skills in **data analysis, visualization, and machine learning**.  
+This repository showcases my achievement of the **DataCamp Professional Data Scientist Certificate**, along with a course project demonstrating my skills in **data analysis, visualization, and machine learning**.  
 
 ## 🏆 Certification Details  
 - **Certificate ID:** DS0027479691932  
